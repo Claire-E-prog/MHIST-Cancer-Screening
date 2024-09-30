@@ -1,5 +1,5 @@
 # MHIST-Cancer-Screening
-This was the computer vision capstone project for my ML Engineering bootcamp. The data and associated research used in this project can be forund here: 'A Petri Dish for Histopathology Image Analysis' https://arxiv.org/abs/2101.12355
+This was the computer vision capstone project for my ML Engineering bootcamp. The data and associated research used in this project can be found here: 'A Petri Dish for Histopathology Image Analysis' https://arxiv.org/abs/2101.12355
 
 This project began as an exploration in building image recognition models from scratch and comparing the performance with pre-trained ResNet models in PyTorch.  
 
